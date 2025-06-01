@@ -9,5 +9,5 @@ Flood detection using semantic segmentation
 ## Tools used 
 
 * NVIDIA GPU Cloud 
-- Register and activate a free NGC account
-- Generate your NGC API key and save it in a safe location
+Register and activate a free NGC account
+Generate your NGC API key and save it in a safe location

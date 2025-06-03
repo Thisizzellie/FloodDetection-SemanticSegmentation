@@ -12,6 +12,21 @@ To obtain detailed and valuable information for flood monitoring, satellite miss
 More information about the Sentinel-1 mission can be found here https://directory.eoportal.org/satellite-missions/copernicus-sentinel-1 
 
 
+## Deep Learning-Based Disaster Risk Monitoring System workflow 
+
+1. Satellite remote sensors capture data
+2. Data are used to (continuously) train deep learning neural network models
+3. Different models and versions are managed by the model repository
+4. Model inference performance is actively monitored
+5. Data are passed to the inference server
+6. The deep learning inference results are post-processed for either
+7. Further analytics by 3rd party or
+8. Raising alerts
+
+<img width="701" alt="Screenshot 2025-06-03 at 22 20 20" src="https://github.com/user-attachments/assets/1e371666-02ff-48de-9c08-e71e7f25d2a1" />
+
+
+
 ## Tools used 
 
 * NVIDIA GPU Cloud
@@ -19,3 +34,5 @@ More information about the Sentinel-1 mission can be found here https://director
 Register and activate a free NGC account
 
 Generate your NGC API key and save it in a safe location
+
+

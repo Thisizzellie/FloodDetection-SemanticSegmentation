@@ -1,5 +1,5 @@
 # Building-a-disaster-risk-monitoring-system-using-computer-vision
-Flood detection using semantic segmentation . For the purposes of detecting flood events, we will develop a semantic segmentation model trained with labelled images that are generated from Sentinel-1 data.
+Flood detection using semantic segmentation . For the purposes of detecting flood events, I will develop a semantic segmentation model trained with labelled images that are generated from Sentinel-1 data.
 
 ### What is the purpose? 
 

@@ -27,7 +27,7 @@ Key features of Sentinel-1:
 - Two satellites (1A & 1B) orbit the Earth every 6 days.
 - Operates in Low Earth Orbit (LEO) for faster data updates.
 
-More information about the Sentinel-1 mission can be found here https://directory.eoportal.org/satellite-missions/copernicus-sentinel-1 
+More information about the Sentinel-1 mission can be found here (https://directory.eoportal.org/satellite-missions/copernicus-sentinel-1)
 
 
 ### Deep Learning-Based Disaster Risk Monitoring System workflow 

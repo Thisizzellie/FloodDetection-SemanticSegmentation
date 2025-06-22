@@ -55,8 +55,6 @@ Improves resource allocation (e.g. where to send aid)
 
 * NVIDIA GPU Cloud
 
-Register and activate a free NGC account
-
 Generate your NGC API key and save it in a safe location
 
 
